@@ -1,0 +1,1 @@
+const fourtyTwo = 42;
